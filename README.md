@@ -64,4 +64,6 @@ then you can simply call it from within controllers etc:
 
 ```javascript
 const Firebase = use("Firebase");
+
+let firebaseApp = Firebase.initialize();
 ```
