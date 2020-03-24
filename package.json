@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jacobwise/adonis-firebase-service-provider#readme",
   "dependencies": {
-    "firebase": "^7.12"
+    "firebase": "^7.12",
+    "firebase-admin": "^8.10.0"
   }
 }
