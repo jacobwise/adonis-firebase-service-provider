@@ -1,26 +1,26 @@
 {
-  "name": "adonis-firebase-sdk",
+  "name": "adonis-firebase-service-provider",
   "version": "1.0.1",
-  "description": "Firebase SDK for AdonisJS",
+  "description": "Firebase Service Provider for AdonisJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeDigest/adonis-firebase-sdk.git"
+    "url": "git+https://github.com/jacobwise/adonis-firebase-service-provider.git"
   },
   "keywords": [
+    "Adonis",
     "AdonisJS",
-    "Firebase",
-    "SDK"
+    "Firebase"
   ],
-  "author": "CodeDigest <development@codedigest.io> (https://codedigest.io)",
+  "author": "Jacob Wise <jacob@craftedup.com> (https://craftedup.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeDigest/adonis-firebase-sdk/issues"
+    "url": "https://github.com/jacobwise/adonis-firebase-service-provider/issues"
   },
-  "homepage": "https://github.com/CodeDigest/adonis-firebase-sdk#readme",
+  "homepage": "https://github.com/jacobwise/adonis-firebase-service-provider#readme",
   "dependencies": {
     "firebase": "^7.12"
   }
