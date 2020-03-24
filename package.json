@@ -1,6 +1,6 @@
 {
   "name": "adonis-firebase-service-provider",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Firebase Service Provider for AdonisJS",
   "main": "index.js",
   "scripts": {
