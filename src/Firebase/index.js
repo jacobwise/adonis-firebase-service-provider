@@ -34,4 +34,4 @@ class Firebase {
   }
 }
 
-module.exports = new Firebase();
+module.exports = Firebase;
